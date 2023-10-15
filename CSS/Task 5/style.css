@@ -1,0 +1,15 @@
+div{
+    max-width: 400px;
+    background-color: rgba(15, 23, 168, 0.6);
+    padding: auto;
+    margin: auto;
+    border: 20px solid black;
+
+}
+.content{
+    text-align: center;
+    padding: 30px;
+}
+.first{
+    padding-bottom: 20px;
+}

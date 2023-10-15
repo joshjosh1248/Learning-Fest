@@ -1,0 +1,12 @@
+body
+{
+    border-top: 0px;
+    padding: 0px;
+}
+
+.top
+{
+    border-style: solid;
+    border-color:red;
+    padding-left: 20px;
+}
