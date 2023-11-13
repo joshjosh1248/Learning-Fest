@@ -1,0 +1,57 @@
+body{
+    margin:0;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.intro{
+    color:white;
+    background-image: linear-gradient(to right, #5858ff, rgb(73, 209, 236))
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+font-family: cursive;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd ;
+}
+
+.container{
+    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+}
+
+.contacts{
+    font-size: larger;
+}
+#Contact{
+    margin: 0%;
+    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+}
+
+#Details{
+    margin:0%;
+    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+}
