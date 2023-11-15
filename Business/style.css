@@ -11,8 +11,8 @@ h2{
 }
 
 .intro{
-    color:white;
-    background-image: linear-gradient(to right, #5858ff, rgb(73, 209, 236))
+    color:rgb(15, 15, 15);
+   background-color: white;
 }
 
 p{
@@ -40,7 +40,7 @@ tr:nth-child(even) {
 }
 
 .container{
-    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+    background-color: white;
 }
 
 .contacts{
@@ -48,11 +48,11 @@ tr:nth-child(even) {
 }
 #Contact{
     margin: 0%;
-    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+    background-color: white;
     
 }
 
 #Details{
     margin:0%;
-    background-image: linear-gradient(to right, #ff5866, rgb(116, 73, 236))
+    background-color: white;
 }
